@@ -1,0 +1,9 @@
+C:\Users\AkaCva\Desktop\Calculadora\Entiades\bin\Debug\netcoreapp3.1\Entiades.deps.json
+C:\Users\AkaCva\Desktop\Calculadora\Entiades\bin\Debug\netcoreapp3.1\Entiades.dll
+C:\Users\AkaCva\Desktop\Calculadora\Entiades\bin\Debug\netcoreapp3.1\Entiades.pdb
+C:\Users\AkaCva\Desktop\Calculadora\Entiades\obj\Debug\netcoreapp3.1\Entiades.AssemblyInfoInputs.cache
+C:\Users\AkaCva\Desktop\Calculadora\Entiades\obj\Debug\netcoreapp3.1\Entiades.AssemblyInfo.cs
+C:\Users\AkaCva\Desktop\Calculadora\Entiades\obj\Debug\netcoreapp3.1\Entiades.csproj.CoreCompileInputs.cache
+C:\Users\AkaCva\Desktop\Calculadora\Entiades\obj\Debug\netcoreapp3.1\Entiades.dll
+C:\Users\AkaCva\Desktop\Calculadora\Entiades\obj\Debug\netcoreapp3.1\Entiades.pdb
+C:\Users\AkaCva\Desktop\Calculadora\Entiades\obj\Debug\netcoreapp3.1\Entiades.csprojAssemblyReference.cache
